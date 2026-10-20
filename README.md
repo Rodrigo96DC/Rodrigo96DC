@@ -17,5 +17,5 @@ Soy un desarrollador apasionado por crear soluciones tecnológicas. Aquí te com
 
 ### 📂 Mis Proyectos Destacados
 
-* **[Nombre de tu proyecto 1](enlace-al-proyecto)**: Breve descripción de lo que hace el software, qué problema resuelve y qué tecnologías usaste.
+* **[Sistema de inventario](https://github.com/Rodrigo96DC/Inventario-RRHH)**: Es un sistema de inventario que gestiona tanto insumos, equipos computacionales, funcionarios y puestos.
 * **[Nombre de tu proyecto 2](enlace-al-proyecto)**: Breve descripción del segundo proyecto.
