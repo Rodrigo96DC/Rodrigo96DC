@@ -2,7 +2,7 @@
 Soy un desarrollador apasionado por crear soluciones tecnológicas. Aquí te comparto un poco sobre mí y lo que hago.
 
 - 🔭 Actualmente estoy trabajando en el servicio de evaluación ambiental (SEA)
-- 🌱 Me encuentro aprendiendo sobre programación en android con ffluter con Dart.
+- 🌱 Me encuentro aprendiendo sobre programación en android con flutter con Dart.
 - 💬 Pregúntame sobre: JavaScript, PHP, SQL, JS,Json, Java, Codeigniter, Laravel.
 - 📫 Cómo contactarme: rodrigolopezvillagra@gmail.com
 
@@ -10,7 +10,7 @@ Soy un desarrollador apasionado por crear soluciones tecnológicas. Aquí te com
 
 ### 🛠️ Tecnologías y Herramientas
 <p>
-  <img src="https://skillicons.dev/icons?i=html,css,js,git,github,laravel,Codeigniter,flutter,Dart" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,git,github,laravel,Codeigniter,Dart" />
 </p>
 
 ---
