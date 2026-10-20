@@ -19,4 +19,4 @@ Soy un desarrollador apasionado por crear soluciones tecnológicas. Aquí te com
 
 * [Sistema de inventario](https://github.com/Rodrigo96DC/Inventario-RRHH): Es un sistema de inventario que gestiona tanto insumos, equipos computacionales, funcionarios y puestos.
 * [A la mano Backend](https://github.com/Rodrigo96DC/alamano-backend): un sistema desarrollado en Laravel para las gestiones de usuarios, alertas y administrador de usuarios.
-* [A la mano Fronted]([https://github.com/Rodrigo96DC/alamano-backend]): un sistema desarrollado en flutter con Dart que realiza la comunicación entre el pasajero y el conductor de recorridos rurales indicando donde se encuentran y a que distancia .
+* [A la mano Fronted](https://github.com/Rodrigo96DC/alamano-backend): un sistema desarrollado en flutter con Dart que realiza la comunicación entre el pasajero y el conductor de recorridos rurales indicando donde se encuentran y a que distancia .
