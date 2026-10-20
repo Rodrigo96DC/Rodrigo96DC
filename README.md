@@ -18,5 +18,6 @@ Soy un desarrollador apasionado por crear soluciones tecnológicas. Aquí te com
 ### 📂 Mis Proyectos Destacados
 
 * [Sistema de inventario](https://github.com/Rodrigo96DC/Inventario-RRHH): Es un sistema de inventario que gestiona tanto insumos, equipos computacionales, funcionarios y puestos.
+* [Inventario 2](https://github.com/Rodrigo96DC/Inventario2): Es un sistema de inventario que gestiona tanto equipos computacionales, funcionarios y puestos tiene pequeñas diferencias en comparación con el sistema anterior.
 * [A la mano Fronted](https://github.com/Rodrigo96DC/alamano-backend): un sistema desarrollado en flutter con Dart que realiza la comunicación entre el pasajero y el conductor de recorridos rurales indicando donde se encuentran y a que distancia.
 * [A la mano Backend](https://github.com/Rodrigo96DC/alamano-backend): un sistema desarrollado en Laravel para las gestiones de usuarios, alertas y administrador de usuarios del frontend a la mano.
