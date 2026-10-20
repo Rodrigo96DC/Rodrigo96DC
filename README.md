@@ -10,7 +10,7 @@ Soy un desarrollador apasionado por crear soluciones tecnológicas. Aquí te com
 
 ### 🛠️ Tecnologías y Herramientas
 <p>
-  <img src="https://skillicons.dev/icons?i=html,css,js,git,github,laravel,Codeigniter,Dart" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,git,github,laravel,Codeigniter,flutter/>
 </p>
 
 ---
